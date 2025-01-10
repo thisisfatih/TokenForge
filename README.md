@@ -14,28 +14,28 @@ To get started with TokenForge, you will need to have Node.js and npm (or yarn) 
 
 1.  Clone the repository:
 
-    ```bash
+```bash
     git clone [repository URL]
-    ```
+```
 
 2.  Install the dependencies:
 
-    ```bash
+```bash
     cd tokenforge
     npm install
-    ```
+```
 
 3.  Compile the contract:
 
-    ```bash
+```bash
     npx hardhat compile
-    ```
+```
 
 4.  Deploy the contract:
 
-    ```bash
+```bash
     npx hardhat run scripts/deploy.js
-    ```
+```
 
 ## Usage
 
@@ -47,9 +47,9 @@ Once you have deployed the contract, you can use it to create your own custom to
 
 You can pass these arguments directly to the deploy script:
 
-    ```bash
+```bash
     npx hardhat run scripts/deploy.js --network <network_name> --name "MyToken" --symbol "MTK" --initial-supply 1000000000000000000000000
-    ```
+```
 
 Replace `<network_name>` with the desired network (e.g., `sepolia`, `goerli`, or `localhost`).
 
@@ -57,9 +57,9 @@ Replace `<network_name>` with the desired network (e.g., `sepolia`, `goerli`, or
 
 To run the tests for TokenForge, you can use the following command:
 
-    ```bash
+```bash
     npx hardhat test
-    ```
+```
 
 ## Security Considerations
 
