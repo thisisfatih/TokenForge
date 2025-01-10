@@ -1,0 +1,217 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+/.next/
+/out/
+/dist/
+/build/
+/coverage/
+/*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+*.eggs
+dist/
+build/
+*.whl
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# C, C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.idb
+
+# .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+log/
+tmp/
+config/database.yml
+coverage/
+
+# JavaScript / TypeScript
+*.tsbuildinfo
+/dist/
+/node_modules/
+/*.js.map
+*.log
+*.ts.map
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# PHP
+vendor/
+composer.lock
+*.log
+*.phpunit.result.cache
+
+# Swift
+DerivedData/
+.build/
+*.xcodeproj/
+*.xcworkspace/
+
+# Rust
+/target/
+
+# Objective-C
+*.h
+*.m
+*.mm
+*.a
+*.lib
+*.dylib
+*.so
+*.o
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.cdtbuild/
+
+# Android Studio / Gradle
+.gradle/
+/build/
+local.properties
+.idea/
+/out/
+
+# Xcode
+*.xcuserstate
+*.xcodeproj/
+*.xcworkspace/
+.DS_Store
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains
+*.iml
+.idea/
+.idea_modules/
+
+# Linux
+*~
+
+# Maven
+target/
+
+# Elasticsearch
+logs/
+data/
+conf/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.pyc
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# PostgreSQL
+pgdata/
+pg_log/
+*.sql
+*.sql.gz
+*.dump
+
+# Cloudflare Workers
+wrangler.toml
+dist/
+
+# VS Code
+.history/
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# Unreal Engine
+.vscode/
+Saved/
+Intermediate/
+*.uproject
+
+# Misc
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Web
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Others
+.env
+.env.*
+*.log
+*.pid
+*.seed
+*.gz
+*.zip
+*.tar.gz
